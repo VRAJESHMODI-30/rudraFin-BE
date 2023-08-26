@@ -1,0 +1,19 @@
+{
+  "name": "rudra-fin-service-backend",
+  "version": "1.0.0",
+  "description": "This is a backend side code of rudraFin Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VRAJESHMODI-30/rudraFin-BE.git"
+  },
+  "author": "Vrajesh Modi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VRAJESHMODI-30/rudraFin-BE/issues"
+  },
+  "homepage": "https://github.com/VRAJESHMODI-30/rudraFin-BE#readme"
+}
